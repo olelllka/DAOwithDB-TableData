@@ -9,7 +9,9 @@
 
 ![image](https://github.com/olelllka/POISK/assets/89900803/bd63e0bd-93ce-4daa-84e5-31b7701b565d)
 
+<H3>Архитектура </H3>
 
+![image](https://github.com/olelllka/POISK/assets/89900803/6445f731-cbd5-45b2-92ec-dbbefce1511c)
 
 Зависимости: Java, JavaFX 
 Примечание: Программа используется для автоматизации процесса мониторинга компьютерных классов.
