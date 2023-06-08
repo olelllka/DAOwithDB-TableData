@@ -5,6 +5,9 @@
 
 ![image](https://github.com/olelllka/POISK/assets/89900803/c55e729c-62f5-46fc-b62d-3a19390054d6)
 
+Также программа позволяет добавлять/удалять/редактировать информацию об аудиториях
+
+![image](https://github.com/olelllka/POISK/assets/89900803/bd63e0bd-93ce-4daa-84e5-31b7701b565d)
 
 
 
